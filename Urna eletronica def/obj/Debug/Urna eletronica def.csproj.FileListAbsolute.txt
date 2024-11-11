@@ -1,0 +1,10 @@
+C:\Users\FF\source\repos\Urna eletronica def\Urna eletronica def\bin\Debug\Urna eletronica def.exe.config
+C:\Users\FF\source\repos\Urna eletronica def\Urna eletronica def\bin\Debug\Urna eletronica def.exe
+C:\Users\FF\source\repos\Urna eletronica def\Urna eletronica def\bin\Debug\Urna eletronica def.pdb
+C:\Users\FF\source\repos\Urna eletronica def\Urna eletronica def\obj\Debug\Urna eletronica def.csproj.AssemblyReference.cache
+C:\Users\FF\source\repos\Urna eletronica def\Urna eletronica def\obj\Debug\Urna_eletronica_def.Form1.resources
+C:\Users\FF\source\repos\Urna eletronica def\Urna eletronica def\obj\Debug\Urna_eletronica_def.Properties.Resources.resources
+C:\Users\FF\source\repos\Urna eletronica def\Urna eletronica def\obj\Debug\Urna eletronica def.csproj.GenerateResource.cache
+C:\Users\FF\source\repos\Urna eletronica def\Urna eletronica def\obj\Debug\Urna eletronica def.csproj.CoreCompileInputs.cache
+C:\Users\FF\source\repos\Urna eletronica def\Urna eletronica def\obj\Debug\Urna eletronica def.exe
+C:\Users\FF\source\repos\Urna eletronica def\Urna eletronica def\obj\Debug\Urna eletronica def.pdb
